@@ -1,5 +1,5 @@
 ## unique_resource
-- this is a simple RAII wrapper any resource (file descriptors,socket,handles)
+- this is a simple RAII wrapper for any resource (file descriptors, sockets,handles)
 ## example 
 ```cpp
 #include "unique_resource.h"
